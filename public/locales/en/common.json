@@ -1,0 +1,75 @@
+{
+  "home": "Home",
+  "about": "About",
+  "projects": "Projects",
+  "blog": "Blog",
+  "contact": "Contact",
+  "hero": {
+    "title": "Artificial Intelligence & Machine Learning Expert",
+    "subtitle": "I'm a technology enthusiast specialized in developing innovative AI solutions and data science projects.",
+    "cta_projects": "Explore My Projects",
+    "cta_contact": "Get in Touch"
+  },
+  "skills": {
+    "title": "My Expertise",
+    "subtitle": "Competencies I've acquired in artificial intelligence and data science",
+    "deep_learning": {
+      "title": "Deep Learning",
+      "description": "Model development with CNN, RNN, Transformer architectures and PyTorch/TensorFlow"
+    },
+    "nlp": {
+      "title": "Natural Language Processing",
+      "description": "Text analysis, sentiment analysis, language models and chatbot development"
+    },
+    "computer_vision": {
+      "title": "Computer Vision",
+      "description": "Image classification, object detection and segmentation applications"
+    },
+    "data_analysis": {
+      "title": "Data Analysis",
+      "description": "Exploratory analysis, visualization and insight extraction in large datasets"
+    },
+    "mlops": {
+      "title": "MLOps",
+      "description": "Model deployment, monitoring and continuous integration/deployment processes"
+    },
+    "reinforcement_learning": {
+      "title": "Reinforcement Learning",
+      "description": "Development of agent-based systems and decision-making algorithms"
+    }
+  },
+  "featured_projects": {
+    "title": "Featured Projects",
+    "subtitle": "Some projects I've developed in artificial intelligence and machine learning",
+    "view_details": "View Details",
+    "view_all": "View All Projects"
+  },
+  "contact_page": {
+    "title": "Contact Me",
+    "subtitle": "Have a question or want to work together? Feel free to reach out!",
+    "form": {
+      "name": "Name",
+      "email": "Email",
+      "subject": "Subject",
+      "message": "Message",
+      "send": "Send Message",
+      "sending": "Sending...",
+      "success": "Your message has been sent successfully!",
+      "error": "There was an error sending your message. Please try again."
+    },
+    "info": {
+      "title": "Contact Information",
+      "email": "Email",
+      "location": "Location",
+      "location_value": "Istanbul, Turkey",
+      "social": "Social Media"
+    },
+    "map": {
+      "title": "Map View",
+      "placeholder": "// A real map integration could be here"
+    }
+  },
+  "footer": {
+    "rights": "All rights reserved."
+  }
+}

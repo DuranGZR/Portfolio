@@ -1,0 +1,75 @@
+{
+  "home": "Ana Sayfa",
+  "about": "Hakkımda",
+  "projects": "Projeler",
+  "blog": "Blog",
+  "contact": "İletişim",
+  "hero": {
+    "title": "Yapay Zeka ve Makine Öğrenimi Uzmanı",
+    "subtitle": "Yenilikçi AI çözümleri geliştiren ve veri bilimi projelerinde uzmanlaşmış bir teknoloji tutkunuyum.",
+    "cta_projects": "Projelerimi Keşfet",
+    "cta_contact": "İletişime Geç"
+  },
+  "skills": {
+    "title": "Uzmanlık Alanlarım",
+    "subtitle": "Yapay zeka ve veri bilimi alanlarında edindiğim yetkinlikler",
+    "deep_learning": {
+      "title": "Derin Öğrenme",
+      "description": "CNN, RNN, Transformer mimarileri ve PyTorch/TensorFlow ile model geliştirme"
+    },
+    "nlp": {
+      "title": "Doğal Dil İşleme",
+      "description": "Metin analizi, duygu analizi, dil modelleri ve chatbot geliştirme"
+    },
+    "computer_vision": {
+      "title": "Bilgisayarlı Görü",
+      "description": "Görüntü sınıflandırma, nesne tespiti ve segmentasyon uygulamaları"
+    },
+    "data_analysis": {
+      "title": "Veri Analizi",
+      "description": "Büyük veri setlerinde keşifsel analiz, görselleştirme ve içgörü çıkarımı"
+    },
+    "mlops": {
+      "title": "MLOps",
+      "description": "Model dağıtımı, izleme ve sürekli entegrasyon/dağıtım süreçleri"
+    },
+    "reinforcement_learning": {
+      "title": "Pekiştirmeli Öğrenme",
+      "description": "Ajan tabanlı sistemler ve karar verme algoritmaları geliştirme"
+    }
+  },
+  "featured_projects": {
+    "title": "Öne Çıkan Projeler",
+    "subtitle": "Yapay zeka ve makine öğrenimi alanlarında geliştirdiğim bazı projeler",
+    "view_details": "Detayları Gör",
+    "view_all": "Tüm Projeleri Gör"
+  },
+  "contact_page": {
+    "title": "İletişime Geç",
+    "subtitle": "Bir sorunuz mu var veya birlikte çalışmak mı istiyorsunuz? Benimle iletişime geçmekten çekinmeyin!",
+    "form": {
+      "name": "İsim",
+      "email": "E-posta",
+      "subject": "Konu",
+      "message": "Mesaj",
+      "send": "Mesaj Gönder",
+      "sending": "Gönderiliyor...",
+      "success": "Mesajınız başarıyla gönderildi!",
+      "error": "Mesajınız gönderilirken bir hata oluştu. Lütfen tekrar deneyin."
+    },
+    "info": {
+      "title": "İletişim Bilgileri",
+      "email": "E-posta",
+      "location": "Konum",
+      "location_value": "İstanbul, Türkiye",
+      "social": "Sosyal Medya"
+    },
+    "map": {
+      "title": "Harita Görünümü",
+      "placeholder": "// Burada gerçek bir harita entegrasyonu olabilir"
+    }
+  },
+  "footer": {
+    "rights": "Tüm hakları saklıdır."
+  }
+}
