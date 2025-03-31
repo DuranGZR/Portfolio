@@ -66,7 +66,7 @@ export default function Home() {
                 <div className="aspect-square rounded-full bg-gradient-to-br from-primary-500 via-secondary-500 to-neon-pink p-1 animate-gradient-xy">
                   <div className="w-full h-full rounded-full bg-dark-600 flex items-center justify-center overflow-hidden">
                     <Image
-                      src="\public\images\BGDuran.png"
+                      src="/public/images/BGDuran.png"
                       alt="Duran Gezer"
                       width={800}
                       height={800}
