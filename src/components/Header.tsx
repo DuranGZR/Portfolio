@@ -14,7 +14,6 @@ export default function Header({ t }: HeaderProps) {
     { href: '/', label: t('home') },
     { href: '/about', label: t('about') },
     { href: '/projects', label: t('projects') },
-    { href: '/blog', label: t('blog') },
     { href: '/contact', label: t('contact') }
   ];
   
@@ -24,7 +23,7 @@ export default function Header({ t }: HeaderProps) {
   return (
     <header className="py-6 px-4 sm:px-6 lg:px-8 border-b border-gray-800">
       <div className="container mx-auto flex justify-between items-center">
-        <Link href="/" className="text-2xl font-bold gradient-text">AI Portfolio</Link>
+        <Link href="/" className="text-2xl font-bold gradient-text">Duran Gezer</Link>
         
         {/* Masaüstü Menü */}
         <nav className="hidden md:flex space-x-8">

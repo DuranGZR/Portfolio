@@ -11,8 +11,8 @@ type SEOProps = {
 };
 
 export default function SEO({
-  title = 'Yapay Zeka & Makine Öğrenimi Portfolyosu',
-  description = 'Yapay zeka ve makine öğrenimi alanlarındaki çalışmalarımı ve projelerimi keşfedin.',
+  title = 'Yazılım Geliştirme ve Veri Bilimi Portfolyosu',
+  description = 'Yazılım geliştirme ve veri bilimi alanlarındaki çalışmalarımı ve projelerimi keşfedin.',
   keywords = 'yapay zeka, makine öğrenimi, derin öğrenme, veri bilimi, portfolyo',
   ogImage = '/images/og-image.jpg',
   ogType = 'website',
@@ -40,7 +40,7 @@ export default function SEO({
       <meta property="og:type" content={ogType} />
       <meta property="og:url" content={canonicalUrl} />
       <meta property="og:image" content={ogImage} />
-      <meta property="og:site_name" content="Yapay Zeka Portfolyosu" />
+      <meta property="og:site_name" content="Yazılım Geliştirme ve Veri Bilimi Portfolyosu" />
       <meta property="og:locale" content="tr_TR" />
       <meta property="og:locale:alternate" content="en_US" />
       

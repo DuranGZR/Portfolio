@@ -5,42 +5,42 @@
   "blog": "Blog",
   "contact": "İletişim",
   "hero": {
-    "title": "Yapay Zeka ve Makine Öğrenimi Uzmanı",
-    "subtitle": "Yenilikçi AI çözümleri geliştiren ve veri bilimi projelerinde uzmanlaşmış bir teknoloji tutkunuyum.",
+    "title": "Yapay Zeka ve Veri Bilimi Meraklısı",
+    "subtitle": "Yapay zeka alanında kendimi geliştirmeye çalışan ve veri bilimi projelerinde deneyim kazanmaya çalışan bir teknoloji tutkunuyum.",
     "cta_projects": "Projelerimi Keşfet",
     "cta_contact": "İletişime Geç"
   },
   "skills": {
-    "title": "Uzmanlık Alanlarım",
-    "subtitle": "Yapay zeka ve veri bilimi alanlarında edindiğim yetkinlikler",
+    "title": "İlgi Alanlarım",
+    "subtitle": "Yapay zeka ve veri bilimi alanlarında öğrenmeye çalıştığım ve ilgilendiğim konular",
     "deep_learning": {
       "title": "Derin Öğrenme",
-      "description": "CNN, RNN, Transformer mimarileri ve PyTorch/TensorFlow ile model geliştirme"
+      "description": "CNN, RNN, Transformer mimarileri ve PyTorch/TensorFlow ile model geliştirmeyi öğreniyorum"
     },
     "nlp": {
       "title": "Doğal Dil İşleme",
-      "description": "Metin analizi, duygu analizi, dil modelleri ve chatbot geliştirme"
+      "description": "Metin analizi, duygu analizi, dil modelleri ve chatbot geliştirme konularını keşfediyorum"
     },
     "computer_vision": {
       "title": "Bilgisayarlı Görü",
-      "description": "Görüntü sınıflandırma, nesne tespiti ve segmentasyon uygulamaları"
+      "description": "Görüntü sınıflandırma, nesne tespiti ve segmentasyon uygulamalarını öğreniyorum"
     },
     "data_analysis": {
       "title": "Veri Analizi",
-      "description": "Büyük veri setlerinde keşifsel analiz, görselleştirme ve içgörü çıkarımı"
+      "description": "Veri setlerinde keşifsel analiz, görselleştirme ve içgörü çıkarımı konularında kendimi geliştiriyorum"
     },
     "mlops": {
       "title": "MLOps",
-      "description": "Model dağıtımı, izleme ve sürekli entegrasyon/dağıtım süreçleri"
+      "description": "Model dağıtımı, izleme ve sürekli entegrasyon/dağıtım süreçleri hakkında bilgi ediniyorum"
     },
     "reinforcement_learning": {
       "title": "Pekiştirmeli Öğrenme",
-      "description": "Ajan tabanlı sistemler ve karar verme algoritmaları geliştirme"
+      "description": "Ajan tabanlı sistemler ve karar verme algoritmaları konularını inceliyorum"
     }
   },
   "featured_projects": {
     "title": "Öne Çıkan Projeler",
-    "subtitle": "Yapay zeka ve makine öğrenimi alanlarında geliştirdiğim bazı projeler",
+    "subtitle": "Yazılım geliştirme ve veri bilimi alanlarında üzerinde çalıştığım bazı projeler",
     "view_details": "Detayları Gör",
     "view_all": "Tüm Projeleri Gör"
   },

@@ -4,8 +4,8 @@
 
 :root {
   --foreground-rgb: 255, 255, 255;
-  --background-start-rgb: 17, 24, 39;
-  --background-end-rgb: 10, 14, 23;
+  --background-start-rgb: 9, 12, 20;
+  --background-end-rgb: 5, 6, 9;
 }
 
 body {
@@ -20,11 +20,11 @@ body {
 
 @layer components {
   .gradient-text {
-    @apply bg-clip-text text-transparent bg-gradient-to-r from-neon-blue via-primary-500 to-neon-pink;
+    @apply bg-clip-text text-transparent bg-gradient-to-r from-neon-blue via-neon-steel to-primary-600;
   }
   
   .neon-border {
-    @apply border border-neon-blue shadow-[0_0_10px_rgba(0,255,255,0.7)];
+    @apply border border-neon-steel shadow-[0_0_15px_rgba(61,90,128,0.7)];
   }
   
   .card {
