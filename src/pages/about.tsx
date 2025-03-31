@@ -55,7 +55,7 @@ export default function About() {
                   <div className="aspect-square rounded-full bg-gradient-to-br from-primary-500 via-secondary-500 to-neon-pink p-1 animate-gradient-xy mx-auto max-w-xs relative">
                     <div className="w-full h-full rounded-full bg-dark-600 overflow-hidden">
                       <Image
-                        src="/images/BGDuran.png"
+                        src="public/assets/images/BGDuran.png"
                         alt="Duran Gezer"
                         width={300}
                         height={300}
