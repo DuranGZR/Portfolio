@@ -12,9 +12,9 @@ export default function Header({ t }: HeaderProps) {
   // Menü linkleri
   const links = [
     { href: '/', label: t('Ana Sayfa') },
-    { href: '/about', label: t('about') },
-    { href: '/projects', label: t('projects') },
-    { href: '/contact', label: t('contact') }
+    { href: '/about', label: t('Hakkımda') },
+    { href: '/projects', label: t('Projeler') },
+    { href: '/contact', label: t('İletişim') }
   ];
   
   // Mevcut diller
