@@ -11,7 +11,7 @@ export default function Header({ t }: HeaderProps) {
   
   // Menü linkleri
   const links = [
-    { href: '/', label: t('home') },
+    { href: '/', label: t('Ana Sayfa') },
     { href: '/about', label: t('about') },
     { href: '/projects', label: t('projects') },
     { href: '/contact', label: t('contact') }
